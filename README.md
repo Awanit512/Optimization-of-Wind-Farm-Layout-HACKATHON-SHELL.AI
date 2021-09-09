@@ -7,6 +7,7 @@
  <br>
 
 <img src="./shell_logo.png">
+ <br>
 <H1> Shell.ai Hackathon Windfarm Layout Optimisation (WFLO) Challenge </H1>
 
 # TEAM MEMBERS 
@@ -18,7 +19,7 @@
 </ul>
 </center>
 
-<br>
+<br><br>
 <hl>
 
  
@@ -29,8 +30,7 @@
 
 
  <br>
-  <br> <br>
-  <br>
+  <br> 
  
 <p> The Approach/Algorithm which we used for solving WFLOP is in Folder named as Approach. :)) </p>
  <br>
@@ -45,7 +45,7 @@ I am glad to state that Out Team named as <b> TEAM-7 </b> won the fourth positio
 </p>
 
 <div>
- <I>Here is the list of Teams Won</I
+ <I>Here is the list of Teams Won</I>
    <img src="./results.png">
 </div>
  <br>
