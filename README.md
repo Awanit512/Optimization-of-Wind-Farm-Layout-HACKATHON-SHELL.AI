@@ -8,13 +8,14 @@
 
 <img src="./shell_logo.png">
 <H1> Shell.ai Hackathon Windfarm Layout Optimisation (WFLO) Challenge </H1>
-  
-# TEAM MEMBERS 
 
+# TEAM MEMBERS 
+<ul>
 ### Awanit Ranjan (Team Leader) 
 ### Akash Hemantrao Waitage 
 ### Abhsihek Choudhary 
 ### Vivek Kumar
+</ul>
 </center>
 
 <br>
