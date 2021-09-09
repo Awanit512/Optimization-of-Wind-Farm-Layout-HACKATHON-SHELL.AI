@@ -1,0 +1,31 @@
+
+
+
+python 3 hona chaiye nhi h to krna parega install
+
+
+phir:
+
+sudo -H python3.7 -m pip uninstall numpy
+sudo apt purge python3-numpy
+sudo -H python3.7 -m install --upgrade pip
+sudo -H python3.7 -m pip install numpy
+
+
+sudo apt get install python3-pip
+sudo -H pip3 install pandas
+
+
+sudo -H pip3 install shapely
+
+sudo -H pip3 install rosely
+
+
+
+sudo -H pip3 install matplotlib
+// ek jagah correct krna h line  475 478 482   me \   ko   /  krna h bs
+
+finally python3.7 Farm_Evaluation_Vec.py
+
+finally python3.7 Ar_512.py
+
