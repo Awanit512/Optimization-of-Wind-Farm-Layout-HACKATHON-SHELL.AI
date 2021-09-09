@@ -20,6 +20,10 @@
 <br>
 <hl>
 
+ 
+ <img src="./motive.png">
+ 
+ <img src="./reward.png">
 <p></p>
 
 
