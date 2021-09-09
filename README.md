@@ -28,22 +28,34 @@
 <p></p>
 
 
+ <br>
+  <br> <br>
+  <br>
  
+<p> The Approach/Algorithm which we used for solving WFLOP is in Folder named as Approach. :)) </p>
  
- 
-<p> The Approach/Algorithm which we used for solving WFLOP is in Folder named as Approach. :))</p>
- 
+  <br>
+  <br>
 
 + If you are excited to see the videos of our work check the links below : 
 
    + <b>Pitch Video </b>: https://youtu.be/_ahxVd1lSmY
  
+  <br> <br>
  
-I am glad to state that Out Team named as <b> TEAM-7 <b> won the fourth position on private Leader Board and First Position under <b >Special University Edition(SPE) </b> from <b> South Zone </b>.
+<p>
+I am glad to state that Out Team named as <b> TEAM-7 </b> won the fourth position on private Leader Board and First Position under <b >Special University Edition(SPE) </b> from <b> South Zone </b> with the <b>score of 544.70305 </b>.
+</p>
+
+<div>
+ <I>Here is the list of Teams Won</I>
+ <img src="./private_LeaderBoard.png">
+</div>
  
-<img src="./private_LeaderBoard.png">
- 
- <img src="./results.png">
+ <div>
+  <B>LEADERBOARD</B>
+  <img src="./results.png">
+ </div>
 
   
 
