@@ -1,4 +1,4 @@
- ```html
+
 <img src="./shell_logo.png">
 <br>
 <center>
@@ -29,6 +29,4 @@
    + <b>Pitch Video </b>: https://youtu.be/_ahxVd1lSmY
 
   
-  
-```
 
