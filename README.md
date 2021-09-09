@@ -31,7 +31,7 @@
 
 <br>
 <p>
-I am glad to state that Out Team named as <b> TEAM-7 </b> won the fourth position on private Leader Board and First Position under <b >Special University Edition(SPE) </b> from <b> South Zone </b> with the <b>score of 544.70305 </b>.
+I am glad to state that our Team named as <b> TEAM-7 </b> won the fourth position on Leader Board and First Position under <b >Special University Edition(SPE) </b> from <b> South Zone </b> with the <b>score of 544.70305 </b>.
 </p>
 
 <div>
