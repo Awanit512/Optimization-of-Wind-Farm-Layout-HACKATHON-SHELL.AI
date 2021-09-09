@@ -1,5 +1,4 @@
 
-<img src="./shell_logo.png">
 <br>
 <center>
 <img src="./shell_ai_Hackthon.png">
@@ -7,7 +6,8 @@
  <br>
  <br>
 
-<H1> Shell.ai Hackathon Windfarm Layout Optimisation Challenge</H1>
+<img src="./shell_logo.png">
+<H1> Shell.ai Hackathon Windfarm Layout Optimisation (WFLO) Challenge </H1>
   
 # TEAM MEMBERS 
 
