@@ -11,10 +11,10 @@
 
 # TEAM MEMBERS 
 <ul>
-### Awanit Ranjan (Team Leader) 
-### Akash Hemantrao Waitage 
-### Abhsihek Choudhary 
-### Vivek Kumar
+<li>### Awanit Ranjan (Team Leader) </li>
+<li>### Akash Hemantrao Waitage </li>
+<li>### Abhsihek Choudhary </li>
+<li>### Vivek Kumar</li>
 </ul>
 </center>
 
