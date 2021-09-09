@@ -14,7 +14,7 @@
 <ul>
 <li> <b><i> Awanit Ranjan (Team Leader) </i></b> </li>
 <li><b><i> Akash Hemantrao Waitage  </i></b></li>
-<li><b><i> Abhsihek Choudhary  </i></b></li>
+<li><b><i> Abhishek Choudhary  </i></b></li>
 <li> <b><i> Vivek Kumar </i></b></li>
 </ul>
 </center>
