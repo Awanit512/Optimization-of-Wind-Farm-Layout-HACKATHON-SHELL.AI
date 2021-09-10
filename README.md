@@ -7,12 +7,17 @@ assumed that the positive y and x axis shown are aligned with the geographical N
 and East directions respectively.
 There are two constraints that must not be violated by a wind farm layout to be con-
 sidered valid.
- Perimeter Constraint. All the turbines must be located inside the perimeter of
+
+<ul>
+<li> Perimeter Constraint. All the turbines must be located inside the perimeter of
 the farm, while maintaining a minimum clearance of 50 meters from the farm
 boundary.
- Proximity Constraint. The distance between any two turbines must be larger than
+ </li>
+ <li>
+ Proximity Constraint. The distance between any two turbines must be larger than
 a given security threshold to ensure a longer lifetime of the turbine rotors. This
 minimum distance between two turbines is called Dmin and needs to be 400 m.
+ </li>
 
 <br>
 <center>
